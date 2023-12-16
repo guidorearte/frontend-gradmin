@@ -1,10 +1,10 @@
 <strong><h1>#Descripcion</h1></strong>
 
-#Tecnologias
+<strong><h1>#Tecnologias</h1></strong>
 
-#Imagenes 
+<strong><h1>#Imagenes</h1></strong> 
 
-#Demo
+<strong><h1>#Demo</h1></strong>
 
-#Para correr
+<strong><h1>#Para correr</h1></strong>
 
