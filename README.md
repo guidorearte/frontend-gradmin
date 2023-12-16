@@ -1,4 +1,4 @@
-<strong>#Descripcion</strong>
+<strong><h1>#Descripcion</h1></strong>
 
 #Tecnologias
 
