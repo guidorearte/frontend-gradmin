@@ -9,6 +9,7 @@
 <p>React, redux toolkit, tailwind css, react hook-form y react icons</p>
 
 <strong><h1>#Imagenes</h1></strong>
+<img src="public" /> 
 
 <h4>
 :construction: Proyecto en construcción :construction:
