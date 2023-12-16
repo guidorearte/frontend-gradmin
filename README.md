@@ -16,6 +16,10 @@
 </h4>
 
 <strong><h1>#Demo</h1></strong>
+<a href="frontend-gradmin.vercel.app"</a>
 
 <strong><h1>#Para correr</h1></strong>
+1) Descargar proyecto
+2) Acceder en la terminal hasta la ubicacion del proyecto y escribir <strong>npm install</strong>
+3) Luego escribir <strong>npm run dev</strong>
 
