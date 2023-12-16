@@ -1,12 +1,18 @@
 <strong><h1>#Descripcion</h1></strong>
 <p>App web frontend, en la cual se puede agregar, eliminar y editar tareas. Otras caracteristicas implementadas son:
-- el foco en la primera entrada de texto. <check></check>
+- el foco en la primera entrada de texto.
 - el borrado de las 3 entradas de datos cada vez que se intenta registrar una tarea.
+- las validaciones en las entradas de texto para que no deban estar vacias y no se pueda enviar el registro hacia al servidor 
 </p>
 
 <strong><h1>#Tecnologias</h1></strong>
+<p>React, redux toolkit, tailwind css, react hook-form y react icons</p>
 
-<strong><h1>#Imagenes</h1></strong> 
+<strong><h1>#Imagenes</h1></strong>
+
+<h4 align="center">
+:construction: Proyecto en construcción :construction:
+</h4>
 
 <strong><h1>#Demo</h1></strong>
 
