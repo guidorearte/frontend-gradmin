@@ -10,7 +10,7 @@
 
 <strong><h1>#Imagenes</h1></strong>
 
-<h4 align="center">
+<h4>
 :construction: Proyecto en construcción :construction:
 </h4>
 
